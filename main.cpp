@@ -1,7 +1,7 @@
 #include <iostream>
 #include <windows.h>
 #include <windowsx.h>
-//#include "VecFunctions.h"
+#include "VecFunctions.h"
 #include <stack>
 
 HDC hdc;
